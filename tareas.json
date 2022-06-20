@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Playground",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "hacer TP2",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "hacer TP3",
+        "estado": "pendiente"
+    }
+]
